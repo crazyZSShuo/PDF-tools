@@ -1,0 +1,10 @@
+streamlit
+pdf2docx
+pypdf
+httpx
+beautifulsoup4
+python-docx
+pillow
+uuid
+PyMuPDF
+reportlab
